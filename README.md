@@ -26,4 +26,4 @@ Pocket API is a complete, full-stack SMS Gateway solution that transforms your A
 * Environment variables are kept hidden and are not pushed to this repository.
 
 ---
-*Built with ❤️ by [Your Name / Rokon Uz Zaman Remon]*
+*Built with ❤️ by Rokon Uz Zaman Remon*
